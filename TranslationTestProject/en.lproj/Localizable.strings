@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  TranslationTestProject
+
+  Created by Emanuel Mairoll on 07.09.21.
+  
+*/
+
+"HELLO_TITLE" = "Hello World!";
