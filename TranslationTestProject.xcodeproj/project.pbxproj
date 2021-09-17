@@ -17,6 +17,7 @@
 /* Begin PBXFileReference section */
 		880F62C726E7AC2500AB77D2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		880F62C926E7AC2800AB77D2 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		88207BC226F476AB00AC0386 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		8887E2BC26E7A7F7000C61C7 /* TranslationTestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TranslationTestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8887E2BF26E7A7F7000C61C7 /* TranslationTestProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslationTestProjectApp.swift; sourceTree = "<group>"; };
 		8887E2C126E7A7F7000C61C7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -114,6 +115,7 @@
 			knownRegions = (
 				en,
 				de,
+				fr,
 			);
 			mainGroup = 8887E2B326E7A7F7000C61C7;
 			productRefGroup = 8887E2BD26E7A7F7000C61C7 /* Products */;
@@ -156,6 +158,7 @@
 			children = (
 				880F62C726E7AC2500AB77D2 /* en */,
 				880F62C926E7AC2800AB77D2 /* de */,
+				88207BC226F476AB00AC0386 /* fr */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
