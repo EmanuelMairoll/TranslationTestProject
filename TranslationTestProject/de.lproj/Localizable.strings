@@ -8,3 +8,4 @@
 
 "HELLO_TITLE" = "Hallo Welt!";
 "HELLO_BODY" = "Das ist ein Test";
+"FROM_WEBLATE" = "Das kommt von Weblate";
