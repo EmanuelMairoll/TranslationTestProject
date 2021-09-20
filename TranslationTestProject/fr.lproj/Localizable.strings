@@ -2,3 +2,4 @@
 
 "HELLO_TITLE" = "Bonjour le monde !";
 "HELLO_BODY" = "C'est un test";
+"FROM_WEBLATE" = "Cela vient de Weblate";
